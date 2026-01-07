@@ -29,6 +29,7 @@ const [value, setValue] = useState("");
   handleAddImage={handleUploadImage}
   handleRemoveImage={handleRemoveImage}
 />
+```
 ##  Installation
 
 To use this editor, make sure you install the required dependencies:
