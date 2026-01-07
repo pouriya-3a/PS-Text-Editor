@@ -18,6 +18,8 @@ The editor also provides:
 
 This makes it easy to sync images with your backend or storage.
 
+!!! In updates, make sure your data is stored in your state before rendering the Text Editor !!!
+
 ### Example
 
 ```jsx
